@@ -1,1 +1,2 @@
-We are now oficially considering Venus as a possible base 
+We are now oficially considering Venus as a possible base
+adding some changes so that i can push them to my remote repository, nothing to do with Venus :D 
